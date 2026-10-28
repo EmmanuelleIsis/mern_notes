@@ -1,3 +1,4 @@
+
 # Week 9 - Thursday session — MERN CI/CD
 
 Implement a single-job GitHub Actions workflow that tests this app, builds its
@@ -39,4 +40,7 @@ keeps its saved data; adding `--volumes` deletes that data. Keep `.env` out of G
 | `compose.test.yaml` | Tests, lint, and type checking |
 | `compose.published.yaml` | Pull and run GHCR images |
 
+
+=======
+# mern_notes
 
